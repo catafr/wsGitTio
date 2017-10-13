@@ -10,16 +10,7 @@ Más de una font-family se especifica separados por coma​
 https://developer.mozilla.org/en-US/docs/Web/CSS/font-family
 ​
 ​
-Tipos de Fuentes
-Hay varios  tipos de fuentes (familias).
-​
-Fuentes - Estilos
-La propiedad font-style es usada mayormente para especificar la cursiva.
 
-
-normal – El texto se muestra normal
-italic – El texto se muestra en cursiva
-oblique – Es como cursiva, pero menos soportado.
 ​
 ​
 ​Contenedores y CSS

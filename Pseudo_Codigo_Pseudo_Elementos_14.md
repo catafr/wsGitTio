@@ -32,3 +32,7 @@ Diseñe un botón para un link que debe:
 Cambiar levemente su color al pasar por arriba
 Cambiar de color al hacer click.
 ​
+pseudo-elements
+Escriba un párrafo que
+Tenega la primera letra siempre más grande y de color naranja.
+Cuando seleccionas texto en ese párrafo, el color de selección tiene que ser rojo y las letras blancas.
